@@ -1,7 +1,7 @@
 # CreditManagementApp
 
-![](https://github.com/Ayesha-tech/CreditManagementApp/blob/master/1.png)
-![](https://github.com/Ayesha-tech/CreditManagementApp/blob/master/2.png)
+![](IMG_20200704_002055.jpg) 
+![](
 ![](https://github.com/Ayesha-tech/CreditManagementApp/blob/master/3.png)
 ![](https://github.com/Ayesha-tech/CreditManagementApp/blob/master/4.png)
 ![](https://github.com/Ayesha-tech/CreditManagementApp/blob/master/5.png)
