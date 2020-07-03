@@ -2,8 +2,8 @@
 
 
 ![](https://github.com/Ayesha-tech/CreditManagementApp/blob/master/IMG_20200704_002447.jpg)
-![](https://github.com/Ayesha-tech/CreditManagementApp/blob/master/IMG_20200704_002534.jpg) 
-![](https://github.com/Ayesha-tech/CreditManagementApp/blob/master/IMG_20200704_002512.jpg) 
+![](https://github.com/Ayesha-tech/CreditManagementApp/blob/master/IMG_20200704_002607.jpg) 
+![](https://github.com/Ayesha-tech/CreditManagementApp/blob/master/IMG_20200704_002512.jpg)
 ![](https://github.com/Ayesha-tech/CreditManagementApp/blob/master/IMG_20200704_002055.jpg) 
 
 
