@@ -3,7 +3,7 @@
 
 ![](https://github.com/Ayesha-tech/CreditManagementApp/blob/master/IMG_20200704_002447.jpg) 
 ![](https://github.com/Ayesha-tech/CreditManagementApp/blob/master/IMG_20200704_002512.jpg) 
-![](https://github.com/Ayesha-tech/CreditManagementApp/blob/master/4.png)
+![](https://github.com/Ayesha-tech/CreditManagementApp/blob/master/IMG_20200704_002055.jpg) 
 ![](https://github.com/Ayesha-tech/CreditManagementApp/blob/master/5.png)
 
 
